@@ -1,2 +1,2 @@
-# goal
+# insta-like-client
 Instagram like app
